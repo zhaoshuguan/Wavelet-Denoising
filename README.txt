@@ -1,0 +1,1 @@
+This project can't be compiled in QtCreator.I don't know the reason.
